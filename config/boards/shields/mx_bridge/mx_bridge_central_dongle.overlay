@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "corne.dtsi"
+#include "mx_bridge.dtsi"
 
 / {
     chosen {
