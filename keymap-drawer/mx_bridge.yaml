@@ -14,16 +14,16 @@ layers:
   - P
   - BSPC
   - {t: ESC, h: LCTRL}
-  - '&hm_l LGUI A'
-  - '&hm_l LALT S'
-  - '&hm_l LCTRL D'
-  - '&hm_shift_l LSHFT F'
+  - {t: A, h: LGUI}
+  - {t: S, h: LALT}
+  - {t: D, h: LCTRL}
+  - {t: F, h: LSHFT}
   - G
   - H
-  - '&hm_shift_r LSHFT J'
-  - '&hm_l LCTRL K'
-  - '&hm_l LALT L'
-  - '&hm_l LGUI SEMI'
+  - {t: J, h: LSHFT}
+  - {t: K, h: LCTRL}
+  - {t: L, h: LALT}
+  - {t: ;, h: LGUI}
   - ''''
   - LSHFT
   - Z
