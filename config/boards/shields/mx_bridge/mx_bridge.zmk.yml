@@ -1,0 +1,11 @@
+file_format: "1"
+id: mx-bridge
+name: MX Bridge
+type: shield
+url: https://github.com/inverseTrig/ergogen-keyboards/mx-bridge
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - mx_bridge_left
+  - mx_bridge_right

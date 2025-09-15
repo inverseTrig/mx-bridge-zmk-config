@@ -1,0 +1,12 @@
+---
+include:
+  - board: nice_nano_v2
+    shield: mx_bridge_central_left
+  - board: nice_nano_v2
+    shield: mx_bridge_peripheral_left
+  - board: nice_nano_v2
+    shield: mx_bridge_peripheral_right
+  - board: nice_nano_v2
+    shield: settings_reset
+  - board: nice_nano_v2
+    shield: mx_bridge_central_dongle dongle_display
