@@ -38,10 +38,10 @@ layers:
   - /
   - ENTER
   - LGUI
-  - '1'
   - SPACE
-  - '2'
+  - '1'
   - '3'
+  - '2'
   - '3'
   '1':
   - '`'
@@ -81,11 +81,11 @@ layers:
   - PREV
   - NEXT
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '4'
   - '0'
+  - {t: ▽, type: trans}
   '2':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -124,10 +124,10 @@ layers:
   - BRI DN
   - VOL DN
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '4'
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '3':
   - F12
@@ -169,8 +169,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '4':
   - {t: ▽, type: trans}
@@ -210,10 +210,10 @@ layers:
   - BT CLR
   - BT PRV
   - {t: ▽, type: trans}
-  - {type: held}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
+  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
 - p: [0, 1]
